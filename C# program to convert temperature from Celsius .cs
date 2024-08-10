@@ -12,7 +12,7 @@ namespace DSA_Programs_in_c_sharp
     {
 
         /// <summary>
-        /// program to convert temperature from Celsius to Fahrenheit
+        /// Program of convert temperature from Celsius to Fahrenheit
         /// </summary>
         public static void CelsiusToFahrenheit()
         {
