@@ -6,4 +6,5 @@ using DSA_Programs_in_c_sharp;
 //Factorial.CalculateFactorial();
 //Palindrome.CheckPalindrome();
 //GCD.CalculateGCD();
-Swaping.SwapValue();
+//Swaping.SwapValue();
+Vowels.GetVowelCount();
