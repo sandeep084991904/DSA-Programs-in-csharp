@@ -5,4 +5,5 @@ using DSA_Programs_in_c_sharp;
 //Temperature.CelsiusToFahrenheit();
 //Factorial.CalculateFactorial();
 //Palindrome.CheckPalindrome();
-GCD.CalculateGCD();
+//GCD.CalculateGCD();
+Swaping.SwapValue();
