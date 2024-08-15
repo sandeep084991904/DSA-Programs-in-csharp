@@ -7,4 +7,5 @@ using DSA_Programs_in_c_sharp;
 //Palindrome.CheckPalindrome();
 //GCD.CalculateGCD();
 //Swaping.SwapValue();
-Vowels.GetVowelCount();
+//Vowels.GetVowelCount();
+SumOfDigit.GetSumOfDigit();
