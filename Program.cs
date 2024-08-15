@@ -16,4 +16,7 @@ using DSA_Programs_in_c_sharp;
 //Character.IsVowelOrConsotants();
 //Person.IsEligibleForVote();
 //Student.GetGrade();
-CheckNumber.IsPostiveOrNegativeOrZero();
+//CheckNumber.IsPostiveOrNegativeOrZero();
+//Roots.GetQuadraticEquation();
+//Square.perfectSquare();
+Absolute.FindAbsoluteValue();
