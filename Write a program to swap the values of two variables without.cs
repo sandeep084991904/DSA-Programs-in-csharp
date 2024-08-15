@@ -12,7 +12,7 @@ namespace DSA_Programs_in_c_sharp
     {
 
        /// <summary>
-       /// program that calculates the factorial of a number using a loop
+       /// program swap to number without temp variable.
         /// </summary>
         public static void SwapValue()
         {
